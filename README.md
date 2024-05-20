@@ -4,4 +4,4 @@
 new-featureブランチで変更
 no-fast-forwardで変更
 conflict ブランチで変更
-github上で更新
+donflict-remo-te上でコンフリクト発生
